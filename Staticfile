@@ -1,0 +1,3 @@
+root: public
+directory: visible
+host_dot_files: true
